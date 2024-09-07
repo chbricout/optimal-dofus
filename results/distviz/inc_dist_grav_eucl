@@ -1,0 +1,18 @@
+// incarnam distances
+graph {
+	Lac
+	Lac -- "Forêt" [label=3.04]
+	Lac -- Champs [label=4.53]
+	Lac -- "Pâturages" [label=5.32]
+	Lac -- "Route des âmes" [label=3.20]
+	"Forêt"
+	"Forêt" -- Champs [label=5.32]
+	"Forêt" -- "Pâturages" [label=3.54]
+	"Forêt" -- "Route des âmes" [label=2.24]
+	Champs
+	Champs -- "Pâturages" [label=4.03]
+	Champs -- "Route des âmes" [label=3.20]
+	"Pâturages"
+	"Pâturages" -- "Route des âmes" [label=2.12]
+	"Route des âmes"
+}
