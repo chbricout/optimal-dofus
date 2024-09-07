@@ -1,0 +1,107 @@
+// Astrub
+digraph {
+	1975 [label="Ça tombe à l'eau"]
+	1958 -> 1975
+	1976 [label="Six pieds sous terre"]
+	1975 -> 1976
+	1977 [label="Tel est pris qui croyait prendre"]
+	1976 -> 1977
+	1978 [label="Bière qui roule n'amasse pas mousse"]
+	1959 -> 1978
+	1979 [label="Combat de rue"]
+	1978 -> 1979
+	1980 [label="Comme un pichon hors de l'eau"]
+	1981 [label="Déjeuner à la fourchette"]
+	1982 [label="La coupe des vices"]
+	1983 [label="Les as de la cambriole"]
+	1984 [label="Crise sanitaire"]
+	1960 -> 1984
+	1985 [label="Livraison par intérim"]
+	1984 -> 1985
+	1986 [label="Golémancien"]
+	1985 -> 1986
+	1987 [label="Le rebelle de la forêt"]
+	1986 -> 1987
+	1988 [label="L'histoire en mouvement"]
+	1960 -> 1988
+	1989 [label="Restauration rapide"]
+	1988 -> 1989
+	1990 [label="De vrais rats de bibliothèque"]
+	1989 -> 1990
+	1991 [label="Légende d'automne"]
+	1990 -> 1991
+	1992 [label="Chacha Blues"]
+	1993 [label="Les touffes des héros"]
+	1994 [label="Les deux font l'impair"]
+	1996 [label="La petite mission dans la prairie"]
+	1998 [label="Qui sème le vent récolte l'Artempeth"]
+	1999 [label="Le génie se meut"]
+	2000 [label="Bûcherons en détresse"]
+	2007 [label="L'invasion des profanateurs de sépultures"]
+	2008 [label="Le repos est dans le champ"]
+	1958 [label="Les principes d'Archie m'aident"]
+	1959 [label="On marche sur des œufs"]
+	1958 -> 1959
+	1960 [label="Ça sent le gaz"]
+	1677 -> 1960
+	2470 -> 1960
+	938 -> 1960
+	1963 -> 1960
+	1964 -> 1960
+	1965 -> 1960
+	1966 -> 1960
+	1967 -> 1960
+	1968 -> 1960
+	1841 -> 1960
+	1970 -> 1960
+	1971 -> 1960
+	1972 -> 1960
+	1973 -> 1960
+	1974 -> 1960
+	1969 -> 1960
+	704 -> 1960
+	716 -> 1960
+	1615 -> 1960
+	1677 [label="Les paroles s'envolent, les aigris restent"]
+	2009 -> 1677
+	2009 [label="Conseil de classe"]
+	1959 -> 2009
+	2470 [label="La routine anodine du chevalier citadin"]
+	2009 -> 2470
+	938 [label="L'étrange créature de l'étang bleu"]
+	2009 -> 938
+	1963 [label="Tournée d'inspection"]
+	2009 -> 1963
+	1964 [label="Série animalière"]
+	2009 -> 1964
+	1965 [label="La fête de la chocopépite"]
+	2009 -> 1965
+	1966 [label="Crime et châtiment"]
+	2009 -> 1966
+	1967 [label="Tarot, t'es très fort"]
+	2009 -> 1967
+	1968 [label="Au petit malheur la chance"]
+	2009 -> 1968
+	1841 [label="Une vie de milichien"]
+	2009 -> 1841
+	1970 [label="Iop et hop"]
+	2009 -> 1970
+	1971 [label="C'est pour ta pomme"]
+	2009 -> 1971
+	1972 [label="C'est pourtant naturel"]
+	2009 -> 1972
+	1973 [label="Souffre-douleur"]
+	2009 -> 1973
+	1974 [label="Trempette dans un verre d'eau"]
+	2009 -> 1974
+	1969 [label="Piques de solution"]
+	2009 -> 1969
+	704 [label="Braquage à la Roublard"]
+	2009 -> 704
+	716 [label="Zobal Hibaba et les 40 Roublards"]
+	2009 -> 716
+	1615 [label="Un rayon de soleil"]
+	2009 -> 1615
+	1962 [label="Balade en forêt"]
+	1960 -> 1962
+}

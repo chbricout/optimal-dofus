@@ -1,0 +1,116 @@
+// path-to-1329
+digraph {
+	1329 [label="Le Dofus des Glaces"]
+	649 -> 1329
+	650 -> 1329
+	651 -> 1329
+	652 -> 1329
+	653 -> 1329
+	655 -> 1329
+	919 -> 1329
+	1309 -> 1329
+	1310 -> 1329
+	1316 -> 1329
+	1317 -> 1329
+	1318 -> 1329
+	1325 -> 1329
+	1326 -> 1329
+	1327 -> 1329
+	1330 -> 1329
+	1333 -> 1329
+	1334 -> 1329
+	710 -> 1329
+	711 -> 1329
+	612 -> 1329
+	613 -> 1329
+	614 -> 1329
+	619 -> 1329
+	620 -> 1329
+	621 -> 1329
+	622 -> 1329
+	623 -> 1329
+	624 -> 1329
+	625 -> 1329
+	626 -> 1329
+	649 [label="Bienvenue à Frigost"]
+	613 -> 649
+	613 [label="La maire de glace"]
+	650 [label="L'essentiel est dans Lac Gelé"]
+	649 -> 650
+	651 [label="Les rescapés de Frigost"]
+	650 -> 651
+	652 [label="Développement durable"]
+	650 -> 652
+	653 [label="Donjons et trouffions"]
+	650 -> 653
+	655 [label="Frigost, une île pas comme les autres"]
+	650 -> 655
+	919 [label="Au fion du trou"]
+	653 -> 919
+	1309 [label="Il faut mettre un terme aux maîtres"]
+	626 -> 1309
+	626 [label="Le pic qui glace"]
+	1310 [label="Un comte de faits divers"]
+	1309 -> 1310
+	1316 [label="La rivalité"]
+	1317 [label="Malédiction !"]
+	1316 -> 1317
+	710 -> 1317
+	711 -> 1317
+	710 [label="La destinée"]
+	711 [label="La fatalité"]
+	1318 [label="Mission Solution"]
+	1317 -> 1318
+	1325 [label="Les derniers rescapés"]
+	626 -> 1325
+	598 -> 1325
+	598 [label="Maya la belle"]
+	625 -> 598
+	597 -> 598
+	625 [label="Là-haut sur la montagne"]
+	597 [label="Un ami qui ne vous veut pas que du bien"]
+	624 -> 597
+	596 -> 597
+	624 [label="Sans ma barbe, quelle barbe"]
+	596 [label="Dépôt de ravitaillement"]
+	595 -> 596
+	623 -> 596
+	595 [label="À qui profite le boufmouth"]
+	594 -> 595
+	622 -> 595
+	543 -> 595
+	594 [label="À la recherche de Dan Lavy"]
+	593 -> 594
+	621 -> 594
+	593 [label="Chauffage à moindre frais"]
+	592 -> 593
+	621 -> 593
+	592 [label="Il préfère la mort en mer"]
+	619 -> 592
+	620 -> 592
+	591 -> 592
+	619 [label=Antiroyaliste]
+	620 [label="Les joyeux de la couronne"]
+	591 [label="Les chasseurs"]
+	590 -> 591
+	590 [label="Promenons-nous dans les bois"]
+	589 -> 590
+	589 [label="Bricole Girl"]
+	621 [label="Fais dodo, t'auras du gâteau"]
+	622 [label=Lavomatique]
+	543 [label="La marche de l'impératrice"]
+	623 [label="C'est frais, mais c'est pas grave"]
+	1326 [label="Chaud et froid"]
+	1318 -> 1326
+	1327 [label="Le givre des révélations"]
+	1326 -> 1327
+	1330 [label="Les rescapés du Village Enseveli"]
+	651 -> 1330
+	1333 [label="La machine à démonter le temps"]
+	1326 -> 1333
+	1334 [label="La vie de château"]
+	626 -> 1334
+	612 [label="La terre banquise"]
+	614 [label="Full contact"]
+	613 -> 614
+}

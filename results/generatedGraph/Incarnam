@@ -1,0 +1,32 @@
+// Incarnam
+digraph {
+	1633 [label="Mort au rat !"]
+	1637 [label="La galette secrète"]
+	1638 [label=Cryptologie]
+	1639 [label="Transport peu commun"]
+	1640 [label="Des vestiges de légende"]
+	1639 -> 1640
+	1641 [label="Vu du ciel"]
+	1640 -> 1641
+	1642 [label="Mise à l'épreuve"]
+	1643 [label="Champs de bataille"]
+	1642 -> 1643
+	1644 [label="Coups d'épée dans l'eau"]
+	1643 -> 1644
+	1645 [label="Décime-moi des bouftous"]
+	1644 -> 1645
+	1646 [label="Chasse aux chapardams"]
+	1645 -> 1646
+	1647 [label="Leçon d'humilité"]
+	1646 -> 1647
+	1648 [label="Des chafers qui marchent"]
+	1647 -> 1648
+	1649 [label="Produits naturels"]
+	1650 [label="La hache et la pioche"]
+	1649 -> 1650
+	1651 [label="Boune un jour, boune toujours"]
+	1650 -> 1651
+	1652 [label="Le choix des armes"]
+	1651 -> 1652
+	1655 [label="Un peu de pigment"]
+}

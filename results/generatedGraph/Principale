@@ -1,0 +1,753 @@
+// Principale
+digraph {
+	26 [label="Manuscrit de Terra Cogita"]
+	153 [label="Le maître des clefs"]
+	2006 -> 153
+	154 [label="Les sbires du maître"]
+	153 -> 154
+	155 [label="Un juge hystérique"]
+	154 -> 155
+	156 [label="Des donjons, encore des donjons"]
+	155 -> 156
+	157 [label="La voie du guerrier"]
+	156 -> 157
+	208 [label="Le Guide du Roublard"]
+	209 [label="Crypte Honnie"]
+	208 -> 209
+	211 [label="Traître ou pas traître, telle est la question..."]
+	209 -> 211
+	215 [label="Émissaire du roi"]
+	211 -> 215
+	216 [label="Info pour un vrai traître"]
+	211 -> 216
+	217 [label="Usuwpation d'identité"]
+	216 -> 217
+	218 [label="Tomber sur un bec"]
+	217 -> 218
+	219 [label="À roublard, roublard et demi"]
+	218 -> 219
+	220 [label="Trouble-fête"]
+	219 -> 220
+	221 [label="Le Pwince Monseigneuw"]
+	215 -> 221
+	222 [label="Suite Woyale"]
+	221 -> 222
+	224 [label="Un mawiage pwincier"]
+	222 -> 224
+	225 [label="Qui veut la peau du Wabbit ?"]
+	224 -> 225
+	439 [label="L'éternelle moisson"]
+	613 [label="La maire de glace"]
+	614 [label="Full contact"]
+	613 -> 614
+	619 [label=Antiroyaliste]
+	620 [label="Les joyeux de la couronne"]
+	621 [label="Fais dodo, t'auras du gâteau"]
+	622 [label=Lavomatique]
+	623 [label="C'est frais, mais c'est pas grave"]
+	624 [label="Sans ma barbe, quelle barbe"]
+	625 [label="Là-haut sur la montagne"]
+	626 [label="Le pic qui glace"]
+	649 [label="Bienvenue à Frigost"]
+	613 -> 649
+	650 [label="L'essentiel est dans Lac Gelé"]
+	649 -> 650
+	651 [label="Les rescapés de Frigost"]
+	650 -> 651
+	652 [label="Développement durable"]
+	650 -> 652
+	653 [label="Donjons et trouffions"]
+	650 -> 653
+	654 [label="Ennemis d'état"]
+	649 -> 654
+	679 [label="Les indésirables"]
+	704 [label="Braquage à la Roublard"]
+	2009 -> 704
+	710 [label="La destinée"]
+	711 [label="La fatalité"]
+	716 [label="Zobal Hibaba et les 40 Roublards"]
+	2009 -> 716
+	762 [label="Dévotion à Crâ"]
+	1958 -> 762
+	763 [label="Dévotion à Ecaflip"]
+	1958 -> 763
+	764 [label="Dévotion à Eniripsa"]
+	1958 -> 764
+	765 [label="Dévotion à Enutrof"]
+	1958 -> 765
+	766 [label="Dévotion à Féca"]
+	1958 -> 766
+	767 [label="Dévotion à Iop"]
+	1958 -> 767
+	768 [label="Dévotion à Osamodas"]
+	1958 -> 768
+	769 [label="Dévotion à Pandawa"]
+	1958 -> 769
+	770 [label="Dévotion à Dralbour"]
+	1958 -> 770
+	771 [label="Dévotion à Sacrieur"]
+	1958 -> 771
+	772 [label="Dévotion à Sadida"]
+	1958 -> 772
+	773 [label="Dévotion à Sram"]
+	1958 -> 773
+	774 [label="Dévotion à Xélor"]
+	1958 -> 774
+	775 [label="Dévotion à Sadida"]
+	1958 -> 775
+	891 [label="À un poil près"]
+	225 -> 891
+	892 [label="À la barbe du roi"]
+	220 -> 892
+	893 [label="Le tracas du guerrier"]
+	157 -> 893
+	896 [label="Donjon en mousse"]
+	897 [label="Donjon en lambeaux"]
+	2003 -> 897
+	898 [label="Donjon douillet"]
+	897 -> 898
+	899 [label="Donjon magistral"]
+	898 -> 899
+	900 [label="T'as le blop coco"]
+	899 -> 900
+	901 [label="Blop indigo, go, go"]
+	900 -> 901
+	902 [label="Le blop griotte entre les repas"]
+	901 -> 902
+	903 [label="Blop de reinette sans blop d'api"]
+	902 -> 903
+	904 [label="Un Kanniboul versé"]
+	903 -> 904
+	905 [label="Le Wa Pythie"]
+	904 -> 905
+	906 [label="Gelée bien eue"]
+	905 -> 906
+	907 [label="Chéri fais-moi peur"]
+	906 -> 907
+	908 [label="Histoire de chiens"]
+	907 -> 908
+	909 [label="Le fossile et le marteau"]
+	908 -> 909
+	910 [label="Tour d'horizon"]
+	1432 -> 910
+	911 [label="Tour à tour"]
+	910 -> 911
+	912 [label="Tour de table"]
+	911 -> 912
+	913 [label="Tour de passe-passe"]
+	912 -> 913
+	914 [label="Tour de rein"]
+	913 -> 914
+	915 [label="Tour de main"]
+	914 -> 915
+	916 [label="Tour de force"]
+	915 -> 916
+	917 [label="Tour nage"]
+	916 -> 917
+	918 [label="Le tour est joué"]
+	917 -> 918
+	919 [label="Au fion du trou"]
+	653 -> 919
+	938 [label="L'étrange créature de l'étang bleu"]
+	2009 -> 938
+	939 [label="Dévotion à Oktapodas"]
+	1958 -> 939
+	1309 [label="Il faut mettre un terme aux maîtres"]
+	626 -> 1309
+	1310 [label="Un comte de faits divers"]
+	1309 -> 1310
+	1316 [label="La rivalité"]
+	1317 [label="Malédiction !"]
+	1316 -> 1317
+	710 -> 1317
+	711 -> 1317
+	1318 [label="Mission Solution"]
+	1317 -> 1318
+	1325 [label="Les derniers rescapés"]
+	626 -> 1325
+	598 -> 1325
+	1326 [label="Chaud et froid"]
+	1318 -> 1326
+	1327 [label="Le givre des révélations"]
+	1326 -> 1327
+	1328 [label="Mille et un jours, un destin"]
+	1327 -> 1328
+	1329 [label="Le Dofus des Glaces"]
+	649 -> 1329
+	650 -> 1329
+	651 -> 1329
+	652 -> 1329
+	653 -> 1329
+	655 -> 1329
+	919 -> 1329
+	1309 -> 1329
+	1310 -> 1329
+	1316 -> 1329
+	1317 -> 1329
+	1318 -> 1329
+	1325 -> 1329
+	1326 -> 1329
+	1327 -> 1329
+	1330 -> 1329
+	1333 -> 1329
+	1334 -> 1329
+	710 -> 1329
+	711 -> 1329
+	612 -> 1329
+	613 -> 1329
+	614 -> 1329
+	619 -> 1329
+	620 -> 1329
+	621 -> 1329
+	622 -> 1329
+	623 -> 1329
+	624 -> 1329
+	625 -> 1329
+	626 -> 1329
+	1330 [label="Les rescapés du Village Enseveli"]
+	651 -> 1330
+	1331 [label="Les marcheurs blancs"]
+	626 -> 1331
+	1333 [label="La machine à démonter le temps"]
+	1326 -> 1333
+	1334 [label="La vie de château"]
+	626 -> 1334
+	1431 [label="Un défilé de Wobots"]
+	909 -> 1431
+	1432 [label="Tour de marionnettes"]
+	1431 -> 1432
+	1462 [label="La magicienne des marécages"]
+	2195 -> 1462
+	1463 [label="Retourner voir le Dark Vlad, toujours sans mourir"]
+	1462 -> 1463
+	1464 [label="Qui botte le cul des Culs Bottés ?"]
+	1463 -> 1464
+	1465 [label="Le voleur d'âmes"]
+	1464 -> 1465
+	1466 [label="L'amour perdu de Nabur"]
+	1465 -> 1466
+	1467 [label="Naissance d'une vocation"]
+	1466 -> 1467
+	1469 [label="Les bandits de Cania"]
+	1467 -> 1469
+	1470 [label=Draconanthropie]
+	1469 -> 1470
+	1471 [label="Ultime réminiscence"]
+	1470 -> 1471
+	1482 [label="La Malle aux trésors"]
+	1483 [label="Terra Carta"]
+	1484 [label="Voyage, voyage"]
+	1485 [label="La porte d'Enutrosor"]
+	1484 -> 1485
+	1486 [label=Orichomania]
+	1485 -> 1486
+	1521 [label="Le livre des Taures"]
+	1462 -> 1521
+	1522 [label="Taures et détours"]
+	1521 -> 1522
+	1523 [label="Le trésor de Totankama"]
+	1522 -> 1523
+	1524 [label="Il faut battre le lait quand il est chaud"]
+	1525 [label="Regrets d'éternailes"]
+	1526 [label="L'anneau de Tot"]
+	1527 [label="Comment perdre ses plumes"]
+	1523 -> 1527
+	1528 [label="Une âme en peine"]
+	1523 -> 1528
+	1529 [label="Le pouvoir derrière le trône"]
+	1528 -> 1529
+	1530 [label="La cité de l'indicible mal"]
+	1486 -> 1530
+	1531 [label="Messager clandestin"]
+	1530 -> 1531
+	1532 [label="La voix de son maître"]
+	1531 -> 1532
+	1571 [label="Le maître des zaaps"]
+	1532 -> 1571
+	1572 [label="Énergie renouvelable"]
+	1571 -> 1572
+	1573 [label="Traitement de choc"]
+	1572 -> 1573
+	1607 [label="Aventure miniature"]
+	1608 [label="Le disparu de Sufokia"]
+	1573 -> 1608
+	1609 [label="Rendez-vous avec la mort"]
+	1608 -> 1609
+	1610 [label="Secret de fabrication"]
+	1611 [label="S'emparer des commandes"]
+	1612 [label="C'est dans la boîte"]
+	1613 [label="Crise d'identité"]
+	1609 -> 1613
+	1614 [label="La quête de l'oiseau du temps"]
+	1613 -> 1614
+	1615 [label="Un rayon de soleil"]
+	2009 -> 1615
+	1616 [label="Dévotion au Roi-Dieu"]
+	1958 -> 1616
+	1629 [label="L'anneau de tous les dangers"]
+	1630 [label="Sous le regard des dieux"]
+	1629 -> 1630
+	1631 [label="Réponses à tout"]
+	1630 -> 1631
+	1632 [label="Le village dans les nuages"]
+	1634 [label="Espoirs et tragédies"]
+	1632 -> 1634
+	1635 [label="Dans la gueule du Milimilou"]
+	1634 -> 1635
+	1653 [label="Plongeon et dragon"]
+	1462 -> 1653
+	1654 [label="Extinction des feux"]
+	1653 -> 1654
+	1656 [label="On dirait le Sud"]
+	1654 -> 1656
+	1657 [label="La méchante sorcière de l'Est"]
+	1656 -> 1657
+	1658 [label="Autel du Nord"]
+	1657 -> 1658
+	1659 [label="Il était une foi dans l'Ouest"]
+	1658 -> 1659
+	1660 [label="La bénédiction de Viti"]
+	1661 [label="La bénédiction de Thomahon"]
+	1662 [label="La bénédiction de Foluk"]
+	1663 [label="Une âme en colère"]
+	1659 -> 1663
+	1665 [label="L'ombre et la proie"]
+	1656 -> 1665
+	1677 [label="Les paroles s'envolent, les aigris restent"]
+	2009 -> 1677
+	1678 [label="Dévotion à la Balance Krosmique"]
+	1958 -> 1678
+	1693 [label="Chacun cherche son chacha"]
+	1484 -> 1693
+	1694 [label="Question de réputation"]
+	1693 -> 1694
+	1695 [label="Matou vu"]
+	1694 -> 1695
+	1781 [label="Le Dofus et l'alchimiste"]
+	1462 -> 1781
+	1782 [label="La dernière pierre"]
+	1471 -> 1782
+	2448 -> 1782
+	439 -> 1782
+	1529 -> 1782
+	1663 -> 1782
+	1784 [label="Les coûts du sort"]
+	1782 -> 1784
+	1785 [label="Une ombre au tableau"]
+	1784 -> 1785
+	1665 -> 1785
+	1786 [label="Un remède draconien"]
+	1785 -> 1786
+	1787 [label="Le dragon des eaux"]
+	1785 -> 1787
+	1788 [label="Le dragon des vents"]
+	1785 -> 1788
+	1789 [label="Le dragon des flammes"]
+	1785 -> 1789
+	1791 [label="Le dragon des forêts"]
+	1785 -> 1791
+	1792 [label=Mississitudes]
+	1786 -> 1792
+	1793 [label="Le destin de Kalisthe"]
+	1792 -> 1793
+	1841 [label="Une vie de milichien"]
+	2009 -> 1841
+	1842 [label="Dévotion à Ouginak"]
+	1958 -> 1842
+	1845 [label="Ne tirez pas sur le messager"]
+	1607 -> 1845
+	1853 [label="À la rescousse des magypus"]
+	1845 -> 1853
+	1867 [label="Dernier contact"]
+	1853 -> 1867
+	1868 [label="La voix des morts"]
+	1867 -> 1868
+	1869 [label="Le fléau de Burin"]
+	1868 -> 1869
+	1905 [label="Le dragon blanc"]
+	1462 -> 1905
+	1906 [label="Examen de passage"]
+	1905 -> 1906
+	1907 [label="Le Pays Gris"]
+	1906 -> 1907
+	1908 [label="Casse en Enutrosor"]
+	1907 -> 1908
+	1909 [label=Nordalie]
+	1908 -> 1909
+	1911 [label="Le bonheur est dans le spray"]
+	1912 [label="Une voix de crystal"]
+	1913 [label="Le mort dans l'âme"]
+	1914 [label="Le guerrier noir"]
+	1915 [label="Il est temps de mourir"]
+	1909 -> 1915
+	1934 [label="Le gang des Toxines"]
+	1869 -> 1934
+	1935 [label="Sombres desseins"]
+	1934 -> 1935
+	1936 [label="Le jour des assassins"]
+	1935 -> 1936
+	1937 [label="Le piège se referme"]
+	1936 -> 1937
+	1958 [label="Les principes d'Archie m'aident"]
+	1959 [label="On marche sur des œufs"]
+	1958 -> 1959
+	1960 [label="Ça sent le gaz"]
+	1677 -> 1960
+	2470 -> 1960
+	938 -> 1960
+	1963 -> 1960
+	1964 -> 1960
+	1965 -> 1960
+	1966 -> 1960
+	1967 -> 1960
+	1968 -> 1960
+	1841 -> 1960
+	1970 -> 1960
+	1971 -> 1960
+	1972 -> 1960
+	1973 -> 1960
+	1974 -> 1960
+	1969 -> 1960
+	704 -> 1960
+	716 -> 1960
+	1615 -> 1960
+	1962 [label="Balade en forêt"]
+	1960 -> 1962
+	1963 [label="Tournée d'inspection"]
+	2009 -> 1963
+	1964 [label="Série animalière"]
+	2009 -> 1964
+	1965 [label="La fête de la chocopépite"]
+	2009 -> 1965
+	1966 [label="Crime et châtiment"]
+	2009 -> 1966
+	1967 [label="Tarot, t'es très fort"]
+	2009 -> 1967
+	1968 [label="Au petit malheur la chance"]
+	2009 -> 1968
+	1969 [label="Piques de solution"]
+	2009 -> 1969
+	1970 [label="Iop et hop"]
+	2009 -> 1970
+	1971 [label="C'est pour ta pomme"]
+	2009 -> 1971
+	1972 [label="C'est pourtant naturel"]
+	2009 -> 1972
+	1973 [label="Souffre-douleur"]
+	2009 -> 1973
+	1974 [label="Trempette dans un verre d'eau"]
+	2009 -> 1974
+	2003 [label="Donjon rikiki"]
+	896 -> 2003
+	2004 [label="Destination Astrub"]
+	1635 -> 2004
+	2005 [label="Le tour du monde"]
+	2006 [label="Revenons à nos bouftons"]
+	2005 -> 2006
+	2009 [label="Conseil de classe"]
+	1959 -> 2009
+	2035 [label="L'épée du rocher"]
+	1462 -> 2035
+	2036 [label="Le forgeur de légende"]
+	2035 -> 2036
+	2037 [label="Jusqu'au bout du rêve"]
+	2036 -> 2037
+	2038 [label="À la recherche de Crocoburio"]
+	2037 -> 2038
+	2039 [label="Le creuset de Mériana"]
+	2038 -> 2039
+	2040 [label="Une douloureuse séparation"]
+	2039 -> 2040
+	2041 [label="Le dragon noir"]
+	2040 -> 2041
+	2042 [label="La vengeance du dernier empereur"]
+	2041 -> 2042
+	2043 [label="L'œuf de Crocabulia"]
+	2042 -> 2043
+	2044 [label="Un nouvel héritier"]
+	2043 -> 2044
+	2048 [label="Dans la gueule du Dragon"]
+	2049 [label="S'armer contre le destin"]
+	2048 -> 2049
+	2050 [label="La fin... ou le commencement"]
+	2049 -> 2050
+	2051 [label="Le silence est d'Aure"]
+	2048 -> 2051
+	2062 [label="Chaque chose en son temps"]
+	2063 [label="Aux frontières du réel"]
+	2062 -> 2063
+	2064 [label="Ce sera mieux avant"]
+	2063 -> 2064
+	2078 [label=Amaknanomalie]
+	2064 -> 2078
+	2079 [label="La mère des Dragoeufs"]
+	2078 -> 2079
+	2080 [label="Cauchemar infini"]
+	2079 -> 2080
+	2081 [label="La Nuit-qui-rugit"]
+	2080 -> 2081
+	2082 [label="Les raisons de la colère"]
+	2081 -> 2082
+	2083 [label="Le temps des secrets"]
+	2082 -> 2083
+	2097 [label="Cauchemars prémonitoires"]
+	2064 -> 2097
+	2098 [label="Partie de chasse"]
+	2097 -> 2098
+	2099 [label="Quatre contre un"]
+	2098 -> 2099
+	2120 [label="Rêves translucides"]
+	2099 -> 2120
+	2121 [label="Les sentiers de la guerre"]
+	2120 -> 2121
+	2122 [label="Les quatre volontés"]
+	2121 -> 2122
+	2133 [label="Veilleur sous surveillance"]
+	2120 -> 2133
+	2135 [label="La source de tous les maux"]
+	2133 -> 2135
+	2136 [label="L'avis de la Mort"]
+	2137 [label="La guerre de Cania n'aura pas lieu"]
+	2138 [label="Prise de conscience"]
+	2122 -> 2138
+	2192 [label="Le réceptacle des Dofus"]
+	1962 -> 2192
+	2193 [label="Un sage parmi les sages"]
+	2192 -> 2193
+	2194 [label="Protection divine"]
+	2193 -> 2194
+	2195 [label="Voir le Dark Vlad et mourir... ou pas"]
+	2194 -> 2195
+	2409 [label="Au détour d'un rêve perdu"]
+	2406 -> 2409
+	2411 [label="Toute possession dépossède"]
+	2406 -> 2411
+	2412 [label="Le chant du Pandamonium"]
+	2411 -> 2412
+	2413 [label="Le début de la fin"]
+	2412 -> 2413
+	2420 [label="Entretemps, une renaissance"]
+	2409 -> 2420
+	2138 -> 2420
+	2422 -> 2420
+	2421 [label="La danse de la dissonance"]
+	2413 -> 2421
+	2422 [label="Descendre aux cendres"]
+	2421 -> 2422
+	2423 [label="Un héritage tourmenté"]
+	2138 -> 2423
+	2422 -> 2423
+	2425 [label="Les totems de Maïmane"]
+	2442 [label="La raison du plus fort"]
+	232 -> 2442
+	1781 -> 2442
+	1462 -> 2442
+	439 -> 2442
+	2443 [label="Après lui, le déluge"]
+	2442 -> 2443
+	2444 [label="Comme un corbac sur sa branche"]
+	2443 -> 2444
+	2445 [label="Rester planté là"]
+	2444 -> 2445
+	2446 [label="Pas de fumée sans feu"]
+	2445 -> 2446
+	2447 [label="Quand les esprits s'échauffent"]
+	2446 -> 2447
+	2448 [label="Le serment de l'ambre"]
+	2447 -> 2448
+	2449 [label="La bête au bois dormant"]
+	2448 -> 2449
+	2420 -> 2449
+	2467 [label="Dévotion à la Lance Originelle"]
+	1958 -> 2467
+	2470 [label="La routine anodine du chevalier citadin"]
+	2009 -> 2470
+	598 [label="Maya la belle"]
+	625 -> 598
+	597 -> 598
+	597 [label="Un ami qui ne vous veut pas que du bien"]
+	624 -> 597
+	596 -> 597
+	596 [label="Dépôt de ravitaillement"]
+	595 -> 596
+	623 -> 596
+	595 [label="À qui profite le boufmouth"]
+	594 -> 595
+	622 -> 595
+	543 -> 595
+	594 [label="À la recherche de Dan Lavy"]
+	593 -> 594
+	621 -> 594
+	593 [label="Chauffage à moindre frais"]
+	592 -> 593
+	621 -> 593
+	592 [label="Il préfère la mort en mer"]
+	619 -> 592
+	620 -> 592
+	591 -> 592
+	591 [label="Les chasseurs"]
+	590 -> 591
+	590 [label="Promenons-nous dans les bois"]
+	589 -> 590
+	589 [label="Bricole Girl"]
+	543 [label="La marche de l'impératrice"]
+	655 [label="Frigost, une île pas comme les autres"]
+	650 -> 655
+	612 [label="La terre banquise"]
+	2406 [label="Quand l'éveil n'est qu'un songe"]
+	2202 -> 2406
+	2135 -> 2406
+	2202 [label="En ce jardin qui nous unit"]
+	2200 -> 2202
+	2200 [label="Main dans la main"]
+	2180 -> 2200
+	2180 [label="Requiem pour un Yokai"]
+	2179 -> 2180
+	2179 [label="Maudite disparition"]
+	2197 -> 2179
+	2197 [label="Sang d'encre"]
+	2155 -> 2197
+	2155 [label="L'équilibre des forces"]
+	2154 -> 2155
+	2154 [label="Le festival de la lanterne"]
+	2153 -> 2154
+	2153 [label="La jetée des enfants perdus"]
+	2152 -> 2153
+	2152 [label="Au nom de l'Art"]
+	2151 -> 2152
+	2151 [label="Sous le bois de sa colère"]
+	2150 -> 2151
+	2150 [label="À la croisée des mondes"]
+	2149 -> 2150
+	2149 [label="Le réveil de Pandala"]
+	232 [label="L'île des naufragés"]
+	231 -> 232
+	231 [label="Le nouveau monde"]
+	1488 [label="Crache Test"]
+	1484 -> 1488
+	1489 [label="Touchez pas à Grisebigle"]
+	1484 -> 1489
+	1490 [label="La quatrième dimension"]
+	1484 -> 1490
+	1491 [label="Échantillonnage"]
+	1484 -> 1491
+	1533 [label="Ça katche ou ça casse"]
+	1484 -> 1533
+	1534 [label="Nécrotiques, tiques, tiques"]
+	1484 -> 1534
+	1535 [label="Faux-semblants"]
+	1484 -> 1535
+	1537 [label="Mémoires d'outre-tombe"]
+	1484 -> 1537
+	1575 [label="Les voleurs de couleurs"]
+	1484 -> 1575
+	1487 [label="Elle va finir par se faire coffrer"]
+	1484 -> 1487
+	1485 -> 1487
+	1536 [label="La pêche au poison"]
+	1484 -> 1536
+	1485 -> 1536
+	1577 [label="Terminutor : le jugement de la machine"]
+	1484 -> 1577
+	1485 -> 1577
+	1703 [label="Acides animés"]
+	1695 -> 1703
+	1975 [label="Ça tombe à l'eau"]
+	1958 -> 1975
+	1978 [label="Bière qui roule n'amasse pas mousse"]
+	1959 -> 1978
+	1984 [label="Crise sanitaire"]
+	1960 -> 1984
+	1988 [label="L'histoire en mouvement"]
+	1960 -> 1988
+	2418 [label="La loi du plus faible"]
+	2411 -> 2418
+	2162 [label="Si loin, si proches"]
+	2180 -> 2162
+	2164 -> 2162
+	2149 -> 2162
+	2199 [label="Pour que son cœur batte comme des ailes"]
+	2154 -> 2199
+	2149 -> 2199
+	2156 [label="Les voies du Pandawushu"]
+	2149 -> 2156
+	2150 -> 2156
+	2157 [label="Présence d'esprits"]
+	2150 -> 2157
+	2161 [label="Le saule du promeneur"]
+	2149 -> 2161
+	2163 [label="Infâme pourriture"]
+	2149 -> 2163
+	2164 [label="Dites-le avec des fleurs"]
+	2149 -> 2164
+	2165 [label="Où est mon samouraï ?"]
+	2149 -> 2165
+	2167 [label="Les métamorphoses d'un Tanuki"]
+	2149 -> 2167
+	2168 [label="L'égalité des sexes"]
+	2149 -> 2168
+	2169 [label="L'effet dragon"]
+	2149 -> 2169
+	2170 [label="Les habitudes ont l'eau-de-vie dure"]
+	2149 -> 2170
+	2171 [label="Cent kamas pour un Kwapa"]
+	2149 -> 2171
+	2172 [label="Sombre mystère"]
+	2149 -> 2172
+	230 [label="Le Gardien du Pont de la Mort"]
+	232 -> 230
+	233 [label="Le Chevalier Noir et Rose"]
+	232 -> 233
+	234 [label="La Potion Bulbique"]
+	232 -> 234
+	235 [label="Polka Merer a besoin de vous"]
+	232 -> 235
+	236 [label="Paulette Pain-bèche la boulangère"]
+	232 -> 236
+	237 [label="Le fils caché"]
+	232 -> 237
+	238 [label="La femme perdue"]
+	232 -> 238
+	239 [label="Scaéroplane à très grande vitesse"]
+	232 -> 239
+	240 [label="Un autre moyen de transport"]
+	232 -> 240
+	241 [label="Les Chasses de Crocodaille Dandi"]
+	232 -> 241
+	1704 [label="Faut pas pousser"]
+	1703 -> 1704
+	1976 [label="Six pieds sous terre"]
+	1975 -> 1976
+	1979 [label="Combat de rue"]
+	1978 -> 1979
+	1985 [label="Livraison par intérim"]
+	1984 -> 1985
+	1989 [label="Restauration rapide"]
+	1988 -> 1989
+	1705 [label="Testé et approuvé"]
+	1704 -> 1705
+	1977 [label="Tel est pris qui croyait prendre"]
+	1976 -> 1977
+	1986 [label="Golémancien"]
+	1985 -> 1986
+	1990 [label="De vrais rats de bibliothèque"]
+	1989 -> 1990
+	1708 [label="De mauvais poil"]
+	1705 -> 1708
+	1987 [label="Le rebelle de la forêt"]
+	1986 -> 1987
+	1991 [label="Légende d'automne"]
+	1990 -> 1991
+	1709 [label="L'As du Volans"]
+	1708 -> 1709
+	1710 [label="En rouge et noir"]
+	1709 -> 1710
+	1711 [label="Tu peux te brosser"]
+	1710 -> 1711
+	1700 [label="Dimensions absurdes"]
+	1711 -> 1700
+	1701 [label="Une parodie de jeustice"]
+	1700 -> 1701
+	1702 [label="De l'autre côté du Chalœil"]
+	1701 -> 1702
+}
