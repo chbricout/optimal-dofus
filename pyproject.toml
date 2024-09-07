@@ -1,0 +1,11 @@
+[project]
+name = "optimal-dofus"
+dependencies = [
+  "graphviz >= 0.20.3",
+  "clingo >= 5.7.1",
+  "numpy >= 2.0.2",
+  "numba >= 0.60.0",
+  "pandas >= 2.2.2",
+  "requests >= 2.32.3",
+  "seaborn >= 0.13.2",
+]
